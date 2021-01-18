@@ -5,5 +5,4 @@ public class Main {
         Deck deck = new Deck();
         deck.disPlay();
     }
-    
 }
